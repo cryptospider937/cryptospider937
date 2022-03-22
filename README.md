@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darkbyte7
+- 👋 Hi, I’m Mihir Mahakalkar.
 
 <!---
 - 👀 I’m interested in ...
