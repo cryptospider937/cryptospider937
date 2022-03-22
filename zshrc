@@ -82,7 +82,8 @@ plugins=(
   git
   zsh-autosuggestions
   zsh-syntax-highlighting
-  )
+  colored-man-pages
+)
 
 # tell ZSH to not check for insecure directories, ignore completions warning and
 # load the completion system normally.
